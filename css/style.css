@@ -1,0 +1,18 @@
+/* HEADER */
+header {
+    text-decoration: none;
+    color: blue;
+}
+/* FOOTER */
+footer {
+    color: red; 
+}
+/* CUADRO */
+/* Dias */
+.dias{
+    font-weight: bold;
+}
+/* Horarios */
+th{
+    font-style: italic;
+}
